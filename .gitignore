@@ -1,0 +1,11 @@
+training_checkpoints/
+data/anchor/
+data/negative/
+data/positive/
+lfw.tgz
+application_data/input_image/*.jpg
+application_data/verification_images/*.jpg
+siamesemodel.h5
+siamesemodelV2.h5
+app/application_data/input_image/*.jpg
+app/application_data/verification_images/*.jpg
